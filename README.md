@@ -4,6 +4,8 @@ recording the errors
 
 ## ROS
 
+### https://github.com/Gaviiin-W/blog/issues/2 Ubuntu18.04 ros can't support python3
+
 ## Robot Arm
 
 ## Ubuntu

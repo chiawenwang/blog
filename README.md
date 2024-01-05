@@ -1,6 +1,6 @@
 # Gavin's blog
 
-recording the errors
+Recording the errors
 
 ## ROS
 
@@ -16,3 +16,4 @@ recording the errors
 
 ### https://github.com/Gaviiin-W/blog/issues/1 Ubuntu 22.04 Mediatek mt7921e WiFi adapter not found
 
+### https://github.com/Gaviiin-W/blog/issues/3 Multi CUDA version on Ubuntu

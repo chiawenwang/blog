@@ -6,6 +6,8 @@ Recording the errors
 
 ### https://github.com/Gaviiin-W/blog/issues/2 Ubuntu18.04 ros can't support python3
 
+### https://github.com/Gaviiin-W/blog/issues/4 Gazebo:parse as old deprecated model file failed.
+
 ## Robot Arm
 
 ## Ubuntu

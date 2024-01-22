@@ -8,6 +8,10 @@ Recording the errors
 
 ### https://github.com/Gaviiin-W/blog/issues/4 Gazebo:parse as old deprecated model file failed.
 
+### https://github.com/Gaviiin-W/blog/issues/5 rosrun: import path in python file.
+
+### https://github.com/Gaviiin-W/blog/issues/6 Switch UR robot arm control between sim and real
+
 ## Robot Arm
 
 ## Ubuntu

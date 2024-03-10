@@ -15,7 +15,7 @@ Recording the errors
 ## Robot Arm
 
 ## Ubuntu
-
+https://github.com/Gaviiin-W/blog/issues/7 pip安装包后Import的时候提示找不到的解决方案
 ## Mac
 
 ## Driver

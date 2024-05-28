@@ -15,12 +15,12 @@ Recording the errors
 ## Robot Arm
 
 ## Ubuntu
-**https://github.com/Gaviiin-W/blog/issues/7 pip安装包后Import的时候提示找不到的解决方案
-https://github.com/Gaviiin-W/blog/issues/11 pip install 并且不影响当前环境 **
+### https://github.com/Gaviiin-W/blog/issues/7 pip安装包后Import的时候提示找不到的解决方案
+### https://github.com/Gaviiin-W/blog/issues/11 pip install 并且不影响当前环境
 
 
 ## Mac
-**https://github.com/Gaviiin-W/blog/issues/10 MAC部分网页字体显示乱码**
+### https://github.com/Gaviiin-W/blog/issues/10 MAC部分网页字体显示乱码
 
 ## Driver
 
